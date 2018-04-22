@@ -7,6 +7,4 @@ kkk
 999
 lll
 mmm
-bug fixed
-bug1 fixed
 abcdefg
