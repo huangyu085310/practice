@@ -7,6 +7,10 @@ kkk
 =======
 888
 999
+<<<<<<< HEAD
 >>>>>>> dev
 lll
 mmm
+=======
+bug fixed
+>>>>>>> dev
