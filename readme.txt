@@ -14,3 +14,4 @@ mmm
 =======
 bug fixed
 >>>>>>> dev
+bug1 fixed
